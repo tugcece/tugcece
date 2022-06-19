@@ -8,4 +8,4 @@
   ![Jokes Card](https://readme-jokes.vercel.app/api)
  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugcece&layout=compact)](https://github.com/tugcece)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tugcece)](https://github.com/tugcece/github-readme-stats)
