@@ -17,11 +17,17 @@ I love the entire process of developing creative websites. I love spending time 
 
 ### 🤝 Connect with me:
 
-- 📪 
+
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/tugcece/tugcece/main/images/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/tugcece/tugcece/main/images/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/tugcece/tugcece/main/images/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-
-  😂 Here is a random joke that'll make you laugh!
+😂 Here is a random joke that'll make you laugh!
+  
+  
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
@@ -54,8 +60,8 @@ I love the entire process of developing creative websites. I love spending time 
 ![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=blac)
 ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white))
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white))
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
 
