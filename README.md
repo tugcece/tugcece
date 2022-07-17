@@ -17,12 +17,9 @@ I love the entire process of developing creative websites. I love spending time 
 
 ### 🤝 Connect with me:
 
+<a href="https://www.linkedin.com/in/tugcece/"> <img align="left" src="https://raw.githubusercontent.com/tugcece/tugcece/main/images/linkedin.svg" alt="tugcece | LinkedIn" width="30px"/></a>
+<a href="https://www.linkedin.com/in/tugcece/"> <img align="left" src="https://raw.githubusercontent.com/tugcece/tugcece/main/images/mail.svg" alt="tugcece | Mail" width="30px"/></a>
 
-<a href="https://www.linkedin.com/in/tugcece/"> <img align="left" src="https://raw.githubusercontent.com/tugcece/tugcece/main/images/linkedin.svg" alt="tugcece | LinkedIn" width="21px"/></a>
-
-<a href=”https://www.linkedin.com/in/tugcece/"><img align=”left” src=”https://raw.githubusercontent.com/tugcece/tugcece/main/images/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
-
-<a href=”https://www.linkedin.com/in/tugcece/"><img align=”left” src=”https://raw.githubusercontent.com/tugcece/tugcece/main/images/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 😂 Here is a random joke that'll make you laugh!
