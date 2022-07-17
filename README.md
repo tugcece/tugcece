@@ -18,10 +18,10 @@ I love the entire process of developing creative websites. I love spending time 
 - 📪 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-<h3 align="center" style ="color: white">
+<span align="center" style ="color: white">
   😂 Here is a random joke that'll make you laugh!
   ![Jokes Card](https://readme-jokes.vercel.app/api)
-</h3>
+</span>
 
 
 ## 🔭 I'm currently working on
