@@ -19,9 +19,13 @@ I love the entire process of developing creative websites. I love spending time 
 
 <a href="https://www.linkedin.com/in/tugcece/"> <img align="left" src="https://raw.githubusercontent.com/tugcece/tugcece/main/images/linkedin.svg" alt="tugcece | LinkedIn" width="30px"/></a>
 <a href="https://www.linkedin.com/in/tugcece/"> <img align="left" src="https://raw.githubusercontent.com/tugcece/tugcece/main/images/email.svg" alt="tugcece | EMail" width="30px"/></a>
+
 </br>
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-  </br>
+ 
+ 
+ </br>
 
 😂 Here is a random joke that'll make you laugh!
   
