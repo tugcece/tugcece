@@ -18,7 +18,7 @@ I love the entire process of developing creative websites. I love spending time 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/tu%C4%9F%C3%A7e-ece-1b2829208/"> <img align="left" src="https://raw.githubusercontent.com/tugcece/tugcece/main/images/linkedin.svg" alt="tugcece | LinkedIn" width="30px"/></a>
-<a href="mailto : tugceece25@icloud.com "> <img align="left" src="https://raw.githubusercontent.com/tugcece/tugcece/main/images/email.png" alt="tugcece | EMail" width="30px"/></a>
+<a href="mailto:tugceece25@icloud.com"> <img align="left" src="https://raw.githubusercontent.com/tugcece/tugcece/main/images/email.png" alt="tugcece | EMail" width="30px"/></a>
 
 
 </br>
