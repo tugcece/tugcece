@@ -22,10 +22,6 @@ I love the entire process of developing creative websites. I love spending time 
 
 </br>
 
-## 🔭 I'm currently working on
-
-- My Bachelor Thesis Project 'TREX' 
-
 ## 💻 Technical Skills
 
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
