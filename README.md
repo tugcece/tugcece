@@ -10,7 +10,7 @@ I'm a Full-Stack Web Developer 💻 !
 I love the entire process of developing creative websites. I love spending time to meet new people.
 
 - 💻 I’m Software Developer at Simply Deliver
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React Native,Next.Js
 
 </br>
 
